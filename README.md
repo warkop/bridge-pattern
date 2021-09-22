@@ -1,5 +1,5 @@
 # bridge-pattern
-<span>                                                                                                    
+<pre>                                                                                                   
              `::::::.                                                          -::::::.             
             `dNNNNNNm.                                                        -NNNNNNNd`            
            `hMMMMMMMMm.                                                      -mMMMMMMMMh`           
@@ -22,5 +22,5 @@ NNNNNNNNNNNNNNMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
              /MMMMMM:                                                          oMMMMMM.             
              :NNNNNN:                                                          oNNNNNN.             
              `::::::`                                                          .::::::`             
-</span>                                                                                                   
+</pre>                                                                                                   
 this implementation of bridge pattern, reference from <a href="https://refactoring.guru/design-patterns/bridge/go/example#example-0">Bridge in Go</a>
